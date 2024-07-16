@@ -6,6 +6,6 @@ Gaining knowledge of zodiac sign can help people understand their preferences, s
 
 This application allows users to check their zodiac signs based on their month and date of birth. There is also a brief summary of zodiac sign personalities for extra information.
 
-[Demo Video](https://youtu.be/QmIy4e4jjcU)
+[Demo Video](https://youtu.be/m8fINnDBEyU)
 
 
